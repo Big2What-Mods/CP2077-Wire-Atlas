@@ -7,10 +7,7 @@
 **A read-only Cyberpunk 2077 one-hop logic inspector for exploring game records and their relationships.**
 
 ![Cyberpunk 2077 2.31](https://img.shields.io/badge/Cyberpunk%202077-2.31-00e5ff?style=for-the-badge)
-![CET](https://img.shields.io/badge/CET-Required-fcee0a?style=for-the-badge)
-![RED4ext](https://img.shields.io/badge/RED4ext-Required-fcee0a?style=for-the-badge)
-![REDscript](https://img.shields.io/badge/REDscript-Required-fcee0a?style=for-the-badge)
-![Codeware](https://img.shields.io/badge/Codeware-Required-fcee0a?style=for-the-badge)
+![Requirements](https://img.shields.io/badge/REQUIRED-CET%20%7C%20RED4ext%20%7C%20REDscript%20%7C%20Codeware-fcee0a?style=for-the-badge)
 ![Read Only](https://img.shields.io/badge/Read%20Only-Yes-fcee0a?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-0.3.39-fcee0a?style=for-the-badge)
 
